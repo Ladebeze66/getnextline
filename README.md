@@ -1,5 +1,5 @@
 # Get_Next_Line
-![illustration getnextline]()
+![illustration getnextline](./picture.png)
 Le projet get_next_line de l'École 42 vise à développer une fonction en C capable de lire et de retourner une ligne complète depuis un descripteur de fichier, à chaque appel. Ce projet est essentiel pour comprendre la gestion des entrées/sorties en C, la manipulation des descripteurs de fichiers, et l'utilisation des variables statiques.
 
 🎯 Objectifs du Projet
